@@ -13,3 +13,12 @@ RESULTS:
 	Neural NW:	94.12
 	1NN:		96.33
 	5-fold:	95.35
+	
+Files Description:
+	first.m: Training model, NN algorithm is applied.
+	test.m : Testing the trained model
+	hiddenweights90.txt: Weights for hidden to output layer.
+	inputweights90.txt: Weights for input to hidden layer.
+	knn.m: Applied KNN classifier for comparision purpose.
+	graph.m : To plot graph B/W Error Rate vs No. Of Features.
+	
